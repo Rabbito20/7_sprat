@@ -1,2 +1,2 @@
 # 7_sprat
- Meme project for practicing JavaFX GUI and MediPlayer
+ Meme project for practicing JavaFX GUI and MediaPlayer
