@@ -22,8 +22,8 @@ public class MainFrame extends Stage{
 	//	Main frame
 //	MainFrame stage1 = new MainFrame();
 	BorderPane root = new BorderPane();
-	Button btn = new Button("Pritisni dugme");
-	Label lbl = new Label("Pritisni dugme");
+	Button btn = new Button("Pritisni me!");
+	Label lbl = new Label("Pritisni dugme!");
 	
 	//	Otvoreni prozor
 //	String link = "https://www.youtube.com/watch?v=9Iq6CtpYQS0";
