@@ -46,7 +46,7 @@ public class VideoPlay extends Stage{
 		
 		root.getChildren().addAll(new Group(new MediaView(player)), btnPause);
 		
-		this.setScene(new Scene(root, 481, 400));		//	width, height
+		this.setScene(new Scene(root, 480, 400));		//	width, height
 		this.setTitle("7 sprat");
 		this.setResizable(false);
 		this.show();
